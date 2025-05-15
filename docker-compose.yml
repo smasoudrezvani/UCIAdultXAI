@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  ml-dashboard:
+    build: .
+    container_name: ml-insighthub
+    ports:
+      - "5050:5050"
+    volumes:
+      - .:/app
+    restart: always
+
