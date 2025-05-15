@@ -125,17 +125,6 @@ Then access the dashboard at [http://localhost:5050/dashboard](http://localhost:
 
 ---
 
-## 🔖 Suggested Project Name
-
-**ML InsightHub**
-Alternative suggestions:
-
-* `ModelScope`
-* `ExplainML`
-* `ClarityML`
-* `SHAPalyzer`
-* `ML GlassBox`
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
