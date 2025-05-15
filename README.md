@@ -8,7 +8,7 @@
 
 ## 📊 Class-wise Metrics
 
-![Class-wise Metrics](assets/Metrics.png)
+![Class-wise Metrics](assets/metrics.png)
 
 ## 🔥 SHAP Summary Plot
 
