@@ -8,7 +8,7 @@
 
 ## 📊 Class-wise Metrics
 
-![Class-wise Metrics](assets/Metrics.png)
+![Class-wise Metrics](assets/metrics.png)
 
 ## 🔥 SHAP Summary Plot
 
@@ -16,7 +16,7 @@
 
 ## 🧠 Feature Importance
 
-![Feature Importance](assets/Feature Importance.png)
+![Feature Importance](assets/feature_importance.png)
 
 
 * **Model Accuracy & Metrics**: Visualize class-wise precision, recall, and F1 score.
